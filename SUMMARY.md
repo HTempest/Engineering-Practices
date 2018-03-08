@@ -7,5 +7,6 @@
 * [Design](architecture.md)
 * Coding
 * [Testing](testing.md)
+* Deployment
 * [Maintenance](maintenance.md)
 
