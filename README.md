@@ -1,10 +1,10 @@
 # About this book
 
-This book 
+This book
 
 ## Purpose
 
-The purpose of this document is to standardise the Software Development Lifecycle \(SDLC\) that produces mission critical web applications and web services through the use of industry leading practices for H Tempest Ltd and it's subsidiaries. These applications and services typically deal with personal and commercial sensitive data requiring due diligence in protecting this data is required. Standardising the development approach and coding techniques for these systems will ensure their maintainability, security, protection against cyber-attacks and compliance with relevant legislation.
+The purpose of this document is to standardise the Software Development Lifecycle \(SDLC\) that produces mission critical web applications and web services through the use of industry leading practices for H Tempest Ltd and it's subsidiaries. These applications and services typically deal with personal and commercially sensitive data requiring due diligence to protect the data. Standardising the development approach and coding techniques for these systems will ensure their maintainability, security, protection against cyber-attacks and compliance with relevant legislation.
 
 ## Scope
 
