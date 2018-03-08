@@ -1,10 +1,10 @@
 # About this book
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book 
 
 ## Purpose
 
-The purpose of this document is to establish a standard expectation for implementation of a Software Development Lifecycle \(SDLC\) that produces software for H Tempest Ltd and it's subsidiaries that is secure, accessible, mobile ready and compliant with relevant legislation.
+The purpose of this document is to standardise the Software Development Lifecycle \(SDLC\) that produces mission critical web applications and web services through the use of industry leading practices for H Tempest Ltd and it's subsidiaries. These applications and services typically deal with personal and commercial sensitive data requiring due diligence in protecting this data is required. Standardising the development approach and coding techniques for these systems will ensure their maintainability, security, protection against cyber-attacks and compliance with relevant legislation.
 
 ## Scope
 
